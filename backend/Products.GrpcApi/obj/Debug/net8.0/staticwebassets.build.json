@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M5fpHeHgA3PcKVqrmM1NFc+Be54KQKcM+qWviJXIA/A=",
+  "Source": "Products.GrpcApi",
+  "BasePath": "_content/Products.GrpcApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
